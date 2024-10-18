@@ -1,1 +1,5 @@
-# DataGridAvto-master
+# DataGridAvto
+
+Задание datdGrid, вариант 3 (Прокат автомобилей)
+
+Группа ИП-21-3, Холмуродов Исмоил
